@@ -17,8 +17,6 @@ Data has been provided for the period of Sep 2016 to Oct 2018, and it includes t
 - Order_Review_Ratings: Customer ratings at the order level
 - Geo-Location: Location details
 
-![Data Model](datamodel.png)
-
 ## Business Objective
 
 The project aims to address various business questions and provide insights. Below are some sample business questions to be addressed:
